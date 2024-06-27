@@ -34,7 +34,7 @@ https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 http://opplex.tv:8080/live/15155419/16175512/245913.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1126938930.png" group-title="Bangladesh", Channel 9 
-http://59.103.181.178:8000/play/a06i/index.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/88.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127188573.png" group-title="Bangladesh", দীপ্ত TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -81,9 +81,6 @@ https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127193855.png" group-title="Bangladesh", News 24 
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/107.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549681/1135772764.png" group-title="Bangladesh", Nexus TV
-https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
-
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127188607.png" group-title="Bangladesh", RTV 
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8 
 
@@ -112,7 +109,7 @@ http://103.110.110.11:8081/live/hbo/playlist.m3u8
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518381/1130061992.png" group-title="English", HBO Signature
-http://public.iptv18.tech/push.php?id=14483
+http://opplex.tv:8080/live/15155419/16175512/346571.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/m2xQ3b8m/pngwing-com.png" group-title="English", Movies Now HD
 http://opplex.tv:8080/live/15155419/16175512/109968.m3u8
@@ -139,13 +136,13 @@ http://opplex.tv:8080/live/15155419/16175512/66287.m3u8
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518412/1132138725.png" group-title="India", Colors HD
-http://public.iptv18.tech/tata.php?id=11635
+http://opplex.tv:8080/live/15155419/16175512/109947.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549683/1132857288.png" group-title="India", Sony HD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549683/1132857287.png" group-title="India", Sony Sab HD
-http://public.iptv18.tech/push.php?id=115
+http://opplex.tv:8080/live/15155419/16175512/109953.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549683/1134393986.png" group-title="India", Zee TV HD
 http://195.26.87.217/live.ts?channelId=217&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -247,7 +244,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518314/1127218900.png" group-title="Sports", Astro Cricket 
-https://cricfire.ranahin.top/toffe.php?id=match-1  
+http://opplex.tv:8080/live/15155419/16175512/352083.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", Bein Sports 1 
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
@@ -280,16 +277,16 @@ http://41.205.93.154/FOXSPORTS1/index.m3u8
 https://tv5.hoichoi24.com/1026/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549687/1132505810.png" group-title="Sports", Sony Ten 1 HD 
-http://xtv.ooo:8080/live/shoukatali/1199292900/109983.m3u8
+http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549687/1132505811.png" group-title="Sports", Sony Ten 2 HD 
-http://xtv.ooo:8080/live/shoukatali/1199292900/109984.m3u8
+http://opplex.tv:8080/live/15155419/16175512/109984.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549687/1132505812.png" group-title="Sports", Sony Ten 3 HD
 http://154.6.191.61:8070/adastream2023/Bye5XZwQ8d5Cbs5/56191
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549687/1132505813.png" group-title="Sports", Sony Ten 4 HD
-http://public.iptv18.tech/push.php?id=23819
+http://opplex.tv:8080/live/15155419/16175512/167595.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549687/1134683464.png" group-title="Sports", Sony Ten 5 HD
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/105350.m3u8
@@ -307,16 +304,16 @@ http://xtv.ooo:8080/live/shoukatali/1199292900/109993.m3u8
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/300.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518314/1127218875.png" group-title="Sports", Sky Sports Cricket
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/2731.ts
+http://opplex.tv:8080/live/15155419/16175512/167594.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518314/1127218876.png" group-title="Sports", Sky Sports Football
-http://xtv.ooo:8080/live/shoukatali/1199292900/346241.m3u8
+http://opplex.tv:8080/live/15155419/16175512/346241.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518314/1127218898.png" group-title="Sports", Sky Sports Premier League
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/286.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518314/1127218968.png" group-title="Sports", Super Sports Cricket
-http://opplex.tv:8080/live/15155419/16175512/167594.m3u8
+https://cricfire.ranahin.top/toffe.php?id=match-1
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518314/1127218969.png" group-title="Sports", Super Sports Football
 http://hardcoremedia.xyz:80/live/xudkdjwc/5154160503/33420.m3u8
@@ -421,7 +418,7 @@ https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6519256/1130061994.png" group-title="Documentory", History 
-http://public.iptv18.tech/tata.php?id=1980
+http://opplex.tv:8080/live/15155419/16175512/238541.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6519256/1126939297.png" group-title="Documentory", National Geographic
 http://45.159.74.13/NationalGeographic/tracks-v1a1/index.m3u8
