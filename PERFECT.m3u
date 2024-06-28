@@ -423,7 +423,7 @@ https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/BQC2LTTG/Background-Eraser-20240628-144507906.png" group-title="Documentory", HGTV 
 https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/htzPWgP3/Background-Eraser-20240628-144608712.png" group-title="Documentory", History 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/htzPWgP3/Background-Eraser-20240628-144608712.png" group-title="Documentory", History TV18
 http://opplex.tv:8080/live/15155419/16175512/238541.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="Documentory", National Geographic
