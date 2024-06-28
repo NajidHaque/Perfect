@@ -309,7 +309,7 @@ http://xtv.ooo:8080/live/shoukatali/1199292900/109993.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" group-title="Sports", Star Sports Select 2 HD
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/300.m3u8
 
-#EXTINF: -1 tvg-logo="https://resources.ecb.co.uk/photo-resources/2023/05/24/d9fa6f3e-e9b3-44f8-b7ff-fc264cb129ea/SkySports.jpg?width=375&height=211" group-title="Sports", Sky Sports Cricket
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/xqDrwkj0/Background-Eraser-20240628-145812760.png" group-title="Sports", Sky Sports Cricket
 http://opplex.tv:8080/live/15155419/16175512/167594.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="Sports", Sky Sports Football
@@ -321,7 +321,7 @@ http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/286.m3u8
 #EXTINF: -1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="Sports", Super Sports Cricket
 https://cricfire.ranahin.top/toffe.php?id=match-1
 
-#EXTINF: -1 tvg-logo="https://www.freeshot.live/upload/source/SuperSportFootball-logo.png" group-title="Sports", Super Sports Football
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wBr5VDTb/Background-Eraser-20240628-145339588.png" group-title="Sports", Super Sports Football
 http://hardcoremedia.xyz:80/live/xudkdjwc/5154160503/33420.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports HD
@@ -339,7 +339,7 @@ https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/QdbCBgH7/2019-Disney-Channel-logo.png" group-title="Kids", Disnep Channel
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/90M9TMyY/Background-Eraser-20240628-150133776.png" group-title="Kids", Disnep Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Kids", Discovery Kids 
