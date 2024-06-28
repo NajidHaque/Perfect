@@ -210,13 +210,13 @@ http://103.120.172.74:4100
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wvSVYKJ5/Background-Eraser-20240628-124939718.png" group-title="Music", Asia Music
 https://amchls.wns.live/hls/stream.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/vZ09rRPY/Background-Eraser-20240628-125215048.png" group-title="Music", AB MASTII
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/vZ09rRPY/Background-Eraser-20240628-125215048.png" group-title="Music", Mastiii
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/J478HSS4/Background-Eraser-20240628-125959243.png" group-title="Music", Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Music", M TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Music", MTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VLByfwgk/Background-Eraser-20240628-130308138.png" group-title="Music", Music India 
@@ -231,10 +231,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/kGjwYj9K/Background-Eraser-20240628-130903040.png" group-title="Music", ZooM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/1Xt5Ztx2/Background-Eraser-20240628-131128715.png" group-title="Music", 9x Music 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/1Xt5Ztx2/Background-Eraser-20240628-131128715.png" group-title="Music", 9xM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/ncW52L3r/Background-Eraser-20240628-131317775.png" group-title="Music", 9x Jawla 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/ncW52L3r/Background-Eraser-20240628-131317775.png" group-title="Music", 9x Jalwa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/VvKQKXDp/Background-Eraser-20240628-131502664.png" group-title="Music", 9x Tashan 
@@ -279,19 +279,19 @@ http://41.205.93.154/FOXSPORTS1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RZfd4sQz/logo-ptv-sports-television-channel-pakistan-cricket-3b8d215d8a6b8604337fd9b6f0f03eea.png" group-title="Sports", PTV Sports 
 https://tv5.hoichoi24.com/1026/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony Ten 1 HD 
+#EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony Sports Ten 1 HD 
 http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
 
-#EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony Ten 2 HD 
+#EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony Sports Ten 2 HD 
 http://opplex.tv:8080/live/15155419/16175512/109984.m3u8
 
-#EXTINF: -1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports", Sony Ten 3 HD
+#EXTINF: -1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports", Sony Sports Ten 3 HD
 http://154.6.191.61:8070/adastream2023/Bye5XZwQ8d5Cbs5/56191
 
-#EXTINF: -1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="Sports", Sony Ten 4 HD
+#EXTINF: -1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="Sports", Sony Sports Ten 4 HD
 http://opplex.tv:8080/live/15155419/16175512/167595.m3u8
 
-#EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Ten 5 HD
+#EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Sports Ten 5 HD
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/105350.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Sports", Star Sports 1 HD
@@ -336,7 +336,7 @@ https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/90M9TMyY/Background-Eraser-20240628-150133776.png" group-title="Kids", Disnep Channel
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/90M9TMyY/Background-Eraser-20240628-150133776.png" group-title="Kids", Disney
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Kids", Discovery Kids 
@@ -375,10 +375,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="World News", CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="World News", DW English
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="World News", DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/dQys3kHB/Background-Eraser-20240628-151629577.png" group-title="World News", NHK World
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/dQys3kHB/Background-Eraser-20240628-151629577.png" group-title="World News", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8zKNWTVp/Background-Eraser-20240628-142041959.png" group-title="World News", Real America Voice
@@ -426,7 +426,7 @@ http://45.159.74.13/NationalGeographic/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="Documentory", TLC
 https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png" group-title="Documentory", Travel XP
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png" group-title="Documentory", Travelxp HD
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.png" group-title="Documentory", Trvl Channel 
