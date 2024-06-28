@@ -15,16 +15,16 @@ http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/83.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangladesh", বিটিভি
 http://xtv.ooo:8080/live/shoukatali/1199292900/245930.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549681/1135772296.png" group-title="Bangladesh", Bijoy TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Bangladesh", Bijoy TV
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/85.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c6292260-fda5-11ee-896a-3357cefbc279/6588366/1139963193.png" group-title="Bangladesh", Bangla TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladesh", Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549681/1132505720.png" group-title="Bangladesh", Bangla Vision 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/BQPRVST7/Banglavision-svg.png" group-title="Bangladesh", Bangla Vision 
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549681/1132505721.png" group-title="Bangladesh", Boishakhi TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/BvJS3LNn/Boishakhi-TV-logo-svg.png" group-title="Bangladesh", Boishakhi TV
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127147868.png" group-title="Bangladesh", Channel 24
