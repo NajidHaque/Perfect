@@ -420,10 +420,10 @@ https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Documentory", Food Network
 https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/x1DfGMg6/HGTV-2010.png" group-title="Documentory", HGTV 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/BQC2LTTG/Background-Eraser-20240628-144507906.png" group-title="Documentory", HGTV 
 https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Yqp68L9z/History-Logo.png" group-title="Documentory", History 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/htzPWgP3/Background-Eraser-20240628-144608712.png" group-title="Documentory", History 
 http://opplex.tv:8080/live/15155419/16175512/238541.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="Documentory", National Geographic
