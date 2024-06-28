@@ -138,19 +138,19 @@ https://amc-twdfanexperience-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645014133-86668994.png?v=8.2.3" group-title="English", Zee Cafe HD
 http://opplex.tv:8080/live/15155419/16175512/66287.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549683/1134683463.png" group-title="India", ABP News
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/1200px-ABP_News_logo.svg.png" group-title="India", ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518412/1132138725.png" group-title="India", Colors HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="India", Colors HD
 http://opplex.tv:8080/live/15155419/16175512/109947.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549683/1132857288.png" group-title="India", Sony HD
+#EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="India", Sony HD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549683/1132857287.png" group-title="India", Sony Sab HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="India", Sony Sab HD
 http://opplex.tv:8080/live/15155419/16175512/109953.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549683/1134393986.png" group-title="India", Zee TV HD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DyynPYyx/Background-Eraser-20240628-115744834.png" group-title="India", Zee TV HD
 http://195.26.87.217/live.ts?channelId=217&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518315/1127148379.png" group-title="Indian Bangla", ABP Ananda
