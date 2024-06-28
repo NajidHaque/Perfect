@@ -144,7 +144,7 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="India", Colors HD
 http://opplex.tv:8080/live/15155419/16175512/109947.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="India", Sony HD
+#EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="India", SET HD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="India", Sony Sab HD
