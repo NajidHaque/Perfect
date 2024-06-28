@@ -183,37 +183,37 @@ http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/119.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="Indian Cinema", B4U Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518411/1126939089.png" group-title="Indian Cinema", Bollywood HD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/bJ9PkddB/Background-Eraser-20240628-123121868.png" group-title="Indian Cinema", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518411/1130063763.png" group-title="Indian Cinema", Bollywood Classic
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png" group-title="Indian Cinema", Bollywood Classic
 https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549685/1134393626.png" group-title="Indian Cinema", Mbc Bollywood
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Indian Cinema", Mbc Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518411/1132156535.png" group-title="Indian Cinema", Colors Cineplex HD 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/fTNvLyh9/Background-Eraser-20240628-123615121.png" group-title="Indian Cinema", Colors Cineplex HD 
 http://opplex.tv:8080/live/15155419/16175512/206315.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518411/1126938706.png" group-title="Indian Cinema", Sony Max HD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wTnFp2j9/Background-Eraser-20240628-123940686.png" group-title="Indian Cinema", Sony Max HD
 http://opplex.tv:8080/live/15155419/16175512/109957.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549685/1132505787.png" group-title="Indian Cinema", Star Gold HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/1200px-Star_Gold_2020.svg.png" group-title="Indian Cinema", Star Gold HD
 http://xtv.ooo:8080/live/shoukatali/1199292900/109959.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549685/1132505788.png" group-title="Indian Cinema", Star Gold Romance
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/zGKw1RBM/Star-Gold-Romance.png" group-title="Indian Cinema", Star Gold Romance
 http://xtv.ooo:8080/live/shoukatali/1199292900/66186.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549685/1132505789.png" group-title="Indian Cinema", Star Gold Select HD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/506Tg34T/Star-Gold-Select.png" group-title="Indian Cinema", Star Gold Select HD
 http://opplex.tv:8080/live/15155419/16175512/221257.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549685/1132505790.png" group-title="Indian Cinema", Zee Cinema HD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Cinema HD
 http://103.120.172.74:4100
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/41290ef0-03d3-11ef-9dc0-0f00851fe489/6629104/1146716313.webp" group-title="Music", Asia Music
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wvSVYKJ5/Background-Eraser-20240628-124939718.png" group-title="Music", Asia Music
 https://amchls.wns.live/hls/stream.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549686/1132505791.png" group-title="Music", AB MASTII
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/vZ09rRPY/Background-Eraser-20240628-125215048.png" group-title="Music", AB MASTII
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6519294/1126939029.png" group-title="Music", Hindi Hits
