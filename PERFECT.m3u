@@ -216,40 +216,40 @@ https://amchls.wns.live/hls/stream.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/vZ09rRPY/Background-Eraser-20240628-125215048.png" group-title="Music", AB MASTII
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6519294/1126939029.png" group-title="Music", Hindi Hits
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/J478HSS4/Background-Eraser-20240628-125959243.png" group-title="Music", Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/41290ef0-03d3-11ef-9dc0-0f00851fe489/6629104/1147047929.png" group-title="Music", M TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Music", M TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6519294/1127171846.png" group-title="Music", Music India 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VLByfwgk/Background-Eraser-20240628-130308138.png" group-title="Music", Music India 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549686/1132505794.png" group-title="Music", MTV Beats
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/MTV_Beats_Logo.png" group-title="Music", MTV Beats
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549686/1132505795.png" group-title="Music", Sangeet Bangla
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e2/Sangeet_Bangla_logo_2021_with_slogan.png" group-title="Music", Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8 
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6519294/1126939033.png" group-title="Music", ZooM
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/kGjwYj9K/Background-Eraser-20240628-130903040.png" group-title="Music", ZooM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6519294/1126939017.png" group-title="Music", 9x Music 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/1Xt5Ztx2/Background-Eraser-20240628-131128715.png" group-title="Music", 9x Music 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6519294/1126939019.png" group-title="Music", 9x Jawla 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/ncW52L3r/Background-Eraser-20240628-131317775.png" group-title="Music", 9x Jawla 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8 
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6519294/1126939020.png" group-title="Music", 9x Tashan 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VvKQKXDp/Background-Eraser-20240628-131502664.png" group-title="Music", 9x Tashan 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png" group-title="Music", 9X Jhakaas
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518314/1130059551.png" group-title="Sports", ATN National
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wjf59MGz/Background-Eraser-20240628-131639008.png" group-title="Sports", ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518314/1127218900.png" group-title="Sports", Astro Cricket 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports", Astro Cricket 
 https://port.denver1769.in/oplx2.php?id=220065
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", Bein Sports 1 
@@ -264,7 +264,7 @@ http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Sports", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/41290ef0-03d3-11ef-9dc0-0f00851fe489/6629105/1150122847.png" group-title="Sports", Dubai Sports 2 
+#EXTINF: -1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png" group-title="Sports", Dubai Sports 2 
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png" group-title="Sports", Dubai Sports 3
