@@ -27,64 +27,64 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/BvJS3LNn/Boishakhi-TV-logo-svg.png" group-title="Bangladesh", Boishakhi TV
 https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127147868.png" group-title="Bangladesh", Channel 24
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png" group-title="Bangladesh", Channel 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127193847.png" group-title="Bangladesh", Channel I 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangladesh", Channel I 
 http://opplex.tv:8080/live/15155419/16175512/245913.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1126938930.png" group-title="Bangladesh", Channel 9 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh", Channel 9 
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/88.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127188573.png" group-title="Bangladesh", দীপ্ত TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh", দীপ্ত TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549681/1135772297.png" group-title="Bangladesh", দুরন্ত
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladesh", দুরন্ত
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/74553.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127193849.png" group-title="Bangladesh", DBC News
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png" group-title="Bangladesh", DBC News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangladesh", একুশে TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127193851.png" group-title="Bangladesh", একাত্তর TV 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="Bangladesh", একাত্তর TV 
 http://xtv.ooo:8080/live/shoukatali/1199292900/245915.m3u8 
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549681/1134901372.png" group-title="Bangladesh", এখন
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladesh", এখন
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1126938937.png" group-title="Bangladesh", Gazi TV 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png" group-title="Bangladesh", Gazi TV 
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549681/1135772453.png" group-title="Bangladesh", Global TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png" group-title="Bangladesh", Global TV
 http://starshare.live:8080/live/irfan/irfan/4231.m3u8 
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549681/1134901192.png" group-title="Bangladesh", Independent TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" group-title="Bangladesh", Independent TV
 http://xtv.ooo:8080/live/shoukatali/1199292900/245916.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127193852.png" group-title="Bangladesh", Jamuna TV
+#EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127193854.png" group-title="Bangladesh", Mohona TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/6QzRkbFj/Mohona-tv-Logo-svg.png" group-title="Bangladesh", Mohona TV
 http://xtv.ooo:8080/live/shoukatali/1199292900/245920.m3u8 
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1126938956.png" group-title="Bangladesh", Movie Bangla
+#EXTINF: -1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Bangladesh", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127060513.png" group-title="Bangladesh", Masranga TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Gp704rZk/Background-Eraser-20240628-105643059.png" group-title="Bangladesh", Masranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549681/1135772765.png" group-title="Bangladesh", N TV 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="Bangladesh", N TV 
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8 
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127193855.png" group-title="Bangladesh", News 24 
+#EXTINF: -1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladesh", News 24 
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/107.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518416/1127188607.png" group-title="Bangladesh", RTV 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladesh", RTV 
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8 
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e3a7a7a0-f764-11ee-9c91-6d1ebd9e0eb9/6549681/1135772923.png" group-title="Bangladesh", SATV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/7Y50JNdd/Background-Eraser-20240628-110449400.png" group-title="Bangladesh", SATV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png" group-title="Bangladesh", সময়
