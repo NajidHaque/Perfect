@@ -144,7 +144,7 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="India", Colors HD
 http://opplex.tv:8080/live/15155419/16175512/109947.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="India", Set HD
+#EXTINF: -1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png" group-title="India", SET HD
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="India", Sony Sab HD
@@ -153,31 +153,31 @@ http://opplex.tv:8080/live/15155419/16175512/109953.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DyynPYyx/Background-Eraser-20240628-115744834.png" group-title="India", Zee TV HD
 http://195.26.87.217/live.ts?channelId=217&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518315/1127148379.png" group-title="Indian Bangla", ABP Ananda
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/66djH910/ABP-Ananda-logo-svg.png" group-title="Indian Bangla", ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518315/1126904335.png" group-title="Indian Bangla", Colors Bangla HD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/907jksK9/Colors-Bangla-HD-prelaunch-2016.png" group-title="Indian Bangla", Colors Bangla HD
 http://195.26.87.217/live.ts?channelId=92&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518315/1127193517.png" group-title="Indian Bangla", Enterr10 Bangla
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/1zB7KPRt/Background-Eraser-20240628-120812810.png" group-title="Indian Bangla", Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518315/1127195339.png" group-title="Indian Bangla", Star Jalsha HD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/zBnQRWLs/Star-Jalsha-HD-with-slogan-2011.png" group-title="Indian Bangla", Star Jalsha HD
 http://xtv.ooo:8080/live/shoukatali/1199292900/245898.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518315/1127195341.png" group-title="Indian Bangla", Jalsha Movies HD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3JXYX4GF/Jalsha-Movies-HD-logo-2013-present.png" group-title="Indian Bangla", Jalsha Movies HD
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/117.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png" group-title="Indian Bangla", Sony Aath
 http://opplex.tv:8080/live/15155419/16175512/245989.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/41290ef0-03d3-11ef-9dc0-0f00851fe489/6629102/1146614100.png" group-title="Indian Bangla", TV9 Bangla
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/zGMN5CY5/Background-Eraser-20240628-121933653.png" group-title="Indian Bangla", TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518315/1126904332.png" group-title="Indian Bangla", Zee Bangla HD
+#EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/channel_list/1170x658310781121.png" group-title="Indian Bangla", Zee Bangla HD
 http://opplex.tv:8080/live/15155419/16175512/245893.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518315/1127196032.png" group-title="Indian Bangla", Zee Bangla Cinema
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/WbczMPdg/Background-Eraser-20240628-122320463.png" group-title="Indian Bangla", Zee Bangla Cinema
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/119.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="Indian Cinema", B4U Movies
