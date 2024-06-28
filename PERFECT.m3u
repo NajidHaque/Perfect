@@ -96,43 +96,43 @@ http://opplex.tv:8080/live/15155419/16175512/109962.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png" group-title="English", &Prive HD
 http://opplex.tv:8080/live/15155419/16175512/109963.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518381/1130089720.png" group-title="English", AMC+ 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="English", AMC+ 
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png" group-title="English", Cinelife 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c6292260-fda5-11ee-896a-3357cefbc279/6588367/1139521189.png" group-title="English", Dubai One
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="English", Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/41290ef0-03d3-11ef-9dc0-0f00851fe489/6629100/1146676529.png" group-title="English", Lotus Macau
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJfzBg4W/Background-Eraser-20240628-112402143.png" group-title="English", Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/41290ef0-03d3-11ef-9dc0-0f00851fe489/6629100/1146676636.png" group-title="English", HBO 
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="English", HBO 
+http://s4.nihontv.net:21585/hbo/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518381/1130061335.png" group-title="English", HBO Family
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/PxFhB30h/hbo-family-hd-asia-logo-png-by-stephen0503-dgfhsei-375w-2x.png" group-title="English", HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518381/1130061992.png" group-title="English", HBO Signature
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="English", HBO Signature
 http://opplex.tv:8080/live/15155419/16175512/346571.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/m2xQ3b8m/pngwing-com.png" group-title="English", Movies Now HD
 http://opplex.tv:8080/live/15155419/16175512/109968.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518381/1127171815.png" group-title="English", Movie Sphere
+#EXTINF: -1 tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png" group-title="English", Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8 
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518381/1127218935.png" group-title="English", Sony Pix HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/189.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518381/1126939091.png" group-title="English", Star Movies HD 
+#EXTINF: -1 tvg-logo="https://logos.fandom.com/vi/wiki/FPT_-_Star_Movies_HD?file=Star_Movies_HD.png" group-title="English", Star Movies HD 
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/198.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a61ec4f0-f246-11ee-b072-afd50f428cb4/6518381/1126926899.png" group-title="English", Star Movies Select HD
+#EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png" group-title="English", Star Movies Select HD
 http://xtv.ooo:8080/live/shoukatali/1199292900/66315.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2b9a5240-0f40-11ef-99f7-71ea0febc710/6713301/1159359677.png" group-title="English", The Walking Dead
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Walking_Dead_2010_logo.svg/1200px-The_Walking_Dead_2010_logo.svg.png" group-title="English", The Walking Dead
 https://amc-twdfanexperience-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645014133-86668994.png?v=8.2.3" group-title="English", Zee Cafe HD
