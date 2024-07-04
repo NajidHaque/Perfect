@@ -109,7 +109,7 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="English", HBO 
-http://s4.nihontv.net:21585/hbo/index.m3u8
+http://212.102.60.231/HBO/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/PxFhB30h/hbo-family-hd-asia-logo-png-by-stephen0503-dgfhsei-375w-2x.png" group-title="English", HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
