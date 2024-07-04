@@ -10,10 +10,10 @@ https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R05tLFg1/Background-Eraser-20240628-101059334.png" group-title="Bangladesh", ATN News
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/83.m3u8
+http://opplex.tv:8080/live/15155419/16175512/245905.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Bangladesh", বিটিভি
-http://xtv.ooo:8080/live/shoukatali/1199292900/245930.m3u8
+http://opplex.tv:8080/live/15155419/16175512/245930.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GhWPs51f/Background-Eraser-20240628-152646187.png" group-title="Bangladesh", Bijoy TV
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/85.m3u8
@@ -25,7 +25,7 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/BvJS3LNn/Boishakhi-TV-logo-svg.png" group-title="Bangladesh", Boishakhi TV
-https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+http://opplex.tv:8080/live/15155419/16175512/245923.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png" group-title="Bangladesh", Channel 24
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
@@ -43,7 +43,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/74553.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png" group-title="Bangladesh", DBC News
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+http://opplex.tv:8080/live/15155419/16175512/245914.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangladesh", একুশে TV
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -76,7 +76,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="Bangladesh", N TV 
-https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8 
+http://opplex.tv:8080/live/15155419/16175512/245924.m3u8 
 
 #EXTINF: -1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladesh", News 24 
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/107.m3u8
@@ -88,7 +88,7 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png" group-title="Bangladesh", সময়
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+http://opplex.tv:8080/live/15155419/16175512/245925.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix.svg/1200px-%26flix.svg.png" group-title="English", &Flix HD
 http://opplex.tv:8080/live/15155419/16175512/109962.m3u8
@@ -112,7 +112,7 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 http://212.102.60.231/HBO/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/PxFhB30h/hbo-family-hd-asia-logo-png-by-stephen0503-dgfhsei-375w-2x.png" group-title="English", HBO Family
-http://212.102.60.231/HBO_FAMILY/index.m3u8
+http://opplex.tv:8080/live/15155419/16175512/346570.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="English", HBO Signature
 http://opplex.tv:8080/live/15155419/16175512/346571.m3u8
@@ -250,7 +250,7 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 https://port.denver1769.in/oplx2.php?id=220065
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", Bein Sports 1 
-http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+https://cdn.footballii.ir/hls2/bein1.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports", Bein Sports 2
 http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
@@ -316,7 +316,7 @@ http://opplex.tv:8080/live/15155419/16175512/346241.m3u8
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/286.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FRMBh5RS/srtijz1643382350.png" group-title="Sports", Super Sports Cricket
-https://cricfire.ranahin.top/toffe.php?id=match-1
+http://opplex.tv:8080/live/15155419/16175512/238475.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wBr5VDTb/Background-Eraser-20240628-145339588.png" group-title="Sports", Super Sports Football
 http://hardcoremedia.xyz:80/live/xudkdjwc/5154160503/33420.m3u8
@@ -325,7 +325,7 @@ http://hardcoremedia.xyz:80/live/xudkdjwc/5154160503/33420.m3u8
 http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/j2yTNKd5/Background-Eraser-20240628-135901528.png" group-title="Sports", Willow HD
-https://mm4-97.tinyuri.org/live/m4-1080p.m3u8|referer=https://emdftinya.tinyuri.org/.m3u8
+http://opplex.tv:8080/live/15155419/16175512/167583.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/L6NPZMqv/Background-Eraser-20240628-140058758.png" group-title="Kids", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
