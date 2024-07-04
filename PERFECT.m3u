@@ -64,7 +64,7 @@ http://starshare.live:8080/live/irfan/irfan/4231.m3u8
 http://xtv.ooo:8080/live/shoukatali/1199292900/245916.m3u8
 
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/6QzRkbFj/Mohona-tv-Logo-svg.png" group-title="Bangladesh", Mohona TV
 http://xtv.ooo:8080/live/shoukatali/1199292900/245920.m3u8 
@@ -85,7 +85,7 @@ http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/107.m3u8
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Jnh1nDX1/Background-Eraser-20240628-114738120.png" group-title="Bangladesh", SATV
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/114.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png" group-title="Bangladesh", সময়
 http://opplex.tv:8080/live/15155419/16175512/245925.m3u8
@@ -247,7 +247,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports", Astro Cricket 
-https://port.denver1769.in/oplx2.php?id=220065
+http://opplex.tv:8080/live/15155419/16175512/352083.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", Bein Sports 1 
 https://cdn.footballii.ir/hls2/bein1.m3u8
