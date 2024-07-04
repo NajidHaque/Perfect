@@ -334,7 +334,7 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network
-https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/90M9TMyY/Background-Eraser-20240628-150133776.png" group-title="Kids", Disney
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
@@ -356,9 +356,6 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids", Nick
 http://tv.digitalview.live:8080/live/Nahin33/8801772732865/563.ts
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/C1jc6pH9/Background-Eraser-20240628-152154460.png" group-title="Kids", Pogo 
-https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/1200px-ABC_News_logo_2021.svg.png" group-title="World News", ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
