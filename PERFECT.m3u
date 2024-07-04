@@ -4,7 +4,7 @@
 https://mtlivestream.site/asian/ytlive/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/pT3MHHgC/Background-Eraser-20240628-152508647.png" group-title="Bangladesh", আনন্দ TV
-https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
+http://sansat.net:25461/live/02028857936892/0751169096/100732.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangladesh", ATN বাংলা
 http://xtv.ooo:8080/live/Behraam223/8237588/245909.ts
@@ -253,10 +253,10 @@ http://opplex.tv:8080/live/15155419/16175512/352083.m3u8
 https://cdn.footballii.ir/hls2/bein1.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports", Bein Sports 2
-http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
+http://sansat.net:25461/live/02028857936892/0751169096/60955.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/640px-Logo_beIN_SPORTS_3.png" group-title="Sports", Bein Sports 3
-http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
+http://sansat.net:25461/live/02028857936892/0751169096/60956.ts
 
 #EXTINF: -1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Sports", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
