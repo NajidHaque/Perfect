@@ -1,5 +1,4 @@
-#EXTM3U 
-x-tvg-url=“https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz”
+#EXTM3U x-tvg-url=“https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz”
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hjtn78RX/Background-Eraser-20240628-100253285.png" group-title="Bangladesh", Asian TV
 https://mtlivestream.site/asian/ytlive/index.m3u8
