@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://avkb.short.gy/tsepg.xml.gz"
-url-tvg="https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+#EXTM3U url-tvg="https://avkb.short.gy/tsepg.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+url-tvg=""
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hjtn78RX/Background-Eraser-20240628-100253285.png" group-title="Bangladesh", Asian TV
 https://mtlivestream.site/asian/ytlive/index.m3u8
