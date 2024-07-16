@@ -4,7 +4,7 @@
 https://mtlivestream.site/asian/ytlive/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/pT3MHHgC/Background-Eraser-20240628-152508647.png" group-title="Bangladesh", আনন্দ TV
-http://sansat.net:25461/live/02028857936892/0751169096/100732.ts
+http://xtv.ooo:8080/live/927222297/6272443883/245929.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangladesh", ATN বাংলা
 http://xtv.ooo:8080/live/Behraam223/8237588/245909.ts
@@ -16,7 +16,7 @@ http://opplex.tv:8080/live/15155419/16175512/245905.m3u8
 http://opplex.tv:8080/live/15155419/16175512/245930.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GhWPs51f/Background-Eraser-20240628-152646187.png" group-title="Bangladesh", Bijoy TV
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/85.m3u8
+http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladesh", Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
@@ -34,7 +34,7 @@ https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 http://opplex.tv:8080/live/15155419/16175512/245913.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh", Channel 9 
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/88.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh", দীপ্ত TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -79,13 +79,13 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://opplex.tv:8080/live/15155419/16175512/245924.m3u8 
 
 #EXTINF: -1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladesh", News 24 
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/107.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladesh", RTV 
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Jnh1nDX1/Background-Eraser-20240628-114738120.png" group-title="Bangladesh", SATV
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/114.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png" group-title="Bangladesh", সময়
 http://opplex.tv:8080/live/15155419/16175512/245925.m3u8
@@ -118,13 +118,16 @@ http://opplex.tv:8080/live/15155419/16175512/346571.m3u8
 http://opplex.tv:8080/live/15155419/16175512/109968.m3u8
 
 #EXTINF: -1 tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png" group-title="English", Movie Sphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8 
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png" group-title="English", Sony Movies
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/189.m3u8
+http://xtv.ooo:8080/live/927222297/6272443883/66224.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/KvMn94Hp/Star-Movies-HD-Asia.png" group-title="English", Star Movies HD 
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/198.m3u8
+http://xtv.ooo:8080/live/927222297/6272443883/66213.ts
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png" group-title="English", Star Movies Select HD
 http://xtv.ooo:8080/live/shoukatali/1199292900/66315.m3u8
@@ -151,7 +154,7 @@ http://103.110.110.11:8081/live/zeetv/playlist.m3u8
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/907jksK9/Colors-Bangla-HD-prelaunch-2016.png" group-title="Indian Bangla", Colors Bangla HD
-http://195.26.87.217/live.ts?channelId=92&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://xtv.ooo:8080/live/574453/774499/245895.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/1zB7KPRt/Background-Eraser-20240628-120812810.png" group-title="Indian Bangla", Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -159,11 +162,11 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zBnQRWLs/Star-Jalsha-HD-with-slogan-2011.png" group-title="Indian Bangla", Star Jalsha HD
 http://xtv.ooo:8080/live/shoukatali/1199292900/245898.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3JXYX4GF/Jalsha-Movies-HD-logo-2013-present.png" group-title="Indian Bangla", Jalsha Movies HD
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/117.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3JXYX4GF/Jalsha-Movies-HD-logo-2013-present.png" group-title="Indian Bangla", Jalsha Movies
+http://port.denver1769.in/Ply/tptv.php?id=232265
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png" group-title="Indian Bangla", Sony Aath
-http://opplex.tv:8080/live/15155419/16175512/245989.m3u8
+http://103.109.56.116/live/skyfeed1016/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zGMN5CY5/Background-Eraser-20240628-121933653.png" group-title="Indian Bangla", TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
@@ -172,7 +175,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 http://opplex.tv:8080/live/15155419/16175512/245893.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/WbczMPdg/Background-Eraser-20240628-122320463.png" group-title="Indian Bangla", Zee Bangla Cinema
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/119.m3u8
+http://xtv.ooo:8080/12dd12dd12/445566/245897
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="Indian Cinema", B4U Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
@@ -274,7 +277,7 @@ https://epg.pw/stream/a567a534d3ff45407cf8007f7ed11ee0db65b690795cbf9b54311de967
 http://41.205.93.154/FOXSPORTS1/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RZfd4sQz/logo-ptv-sports-television-channel-pakistan-cricket-3b8d215d8a6b8604337fd9b6f0f03eea.png" group-title="Sports", PTV Sports 
-https://tv5.hoichoi24.com/1026/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/live/927222297/6272443883/217968.ts
 
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony Sports Ten 1 HD 
 http://opplex.tv:8080/live/15155419/16175512/109983.m3u8
@@ -286,7 +289,7 @@ http://opplex.tv:8080/live/15155419/16175512/109984.m3u8
 http://154.6.191.61:8070/adastream2023/Bye5XZwQ8d5Cbs5/56191
 
 #EXTINF: -1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="Sports", Sony Sports Ten 4 HD
-http://opplex.tv:8080/live/15155419/16175512/167595.m3u8
+http://xtv.ooo:8080/live/927222297/6272443883/167595.ts
 
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Sports Ten 5 HD
 http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/105350.m3u8
@@ -295,13 +298,13 @@ http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/105350.m3u8
 http://opplex.tv:8080/live/15155419/16175512/167575.m3u8
 
 #EXTINF: -1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports", Star Sports 2 HD
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/49568.m3u8
+http://xtv.ooo:8080/live/927222297/6272443883/109988.ts
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" group-title="Sports", Star Sports Select 1 HD 
 http://xtv.ooo:8080/live/shoukatali/1199292900/109993.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png" group-title="Sports", Star Sports Select 2 HD
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/300.m3u8
+http://xtv.ooo:8080/live/927222297/6272443883/167579.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/xqDrwkj0/Background-Eraser-20240628-145812760.png" group-title="Sports", Sky Sports Cricket
 http://opplex.tv:8080/live/15155419/16175512/167594.m3u8
@@ -322,7 +325,7 @@ http://hardcoremedia.xyz:80/live/xudkdjwc/5154160503/33420.m3u8
 http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/j2yTNKd5/Background-Eraser-20240628-135901528.png" group-title="Sports", Willow HD
-http://opplex.tv:8080/live/15155419/16175512/167583.m3u8
+http://xtv.ooo:8080/live/927222297/6272443883/347332.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/L6NPZMqv/Background-Eraser-20240628-140058758.png" group-title="Kids", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -334,7 +337,7 @@ https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/90M9TMyY/Background-Eraser-20240628-150133776.png" group-title="Kids", Disney
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Kids", Discovery Kids 
 https://od.lk/s/ODRfNzIxOTE5NzJf/Discovery_Kids.m3u8
@@ -352,7 +355,7 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids", Nick
-https://jio.dinesh29.com.np/live/jio-universal/nick-bangla/index.ts
+http://xtv.ooo:8080/live/927222297/6272443883/150482.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0Q06xwPq/pngwing-com.png" group-title="Kids", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
