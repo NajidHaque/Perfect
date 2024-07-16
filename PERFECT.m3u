@@ -39,9 +39,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=9592&deviceMac=00:1A:79:82:85:
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh", দীপ্ত TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangladesh", দুরন্ত
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/74553.m3u8
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png" group-title="Bangladesh", DBC News
 http://opplex.tv:8080/live/15155419/16175512/245914.m3u8
 
@@ -56,6 +53,9 @@ https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png" group-title="Bangladesh", Gazi TV 
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Bangladesh", Green TV
+http://103.109.56.116/live/skyfeed1011/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png" group-title="Bangladesh", Global TV
 http://starshare.live:8080/live/irfan/irfan/4231.m3u8 
