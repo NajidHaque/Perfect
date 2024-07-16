@@ -64,7 +64,7 @@ http://starshare.live:8080/live/irfan/irfan/4231.m3u8
 http://xtv.ooo:8080/live/shoukatali/1199292900/245916.m3u8
 
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
-https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721119078/ei/Bt2VZuesNNbFsfIPvuKSyAw/ip/13.91.68.217/id/rHVbzB06Ya8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAaoMalD0hX5mkdof9aNF_PTaWVpF6izE5bQelbWgX0aoFTisdngeV7T0wdQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALahjPd68BBkcZgtzTdEq5tAvRngWzLWzDnDHBXjtuggAiAjWfPeYItqD_Wsdps24lZrAjvpiLBhN0CM4o_zyHWNzA%3D%3D/file/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/6QzRkbFj/Mohona-tv-Logo-svg.png" group-title="Bangladesh", Mohona TV
 http://xtv.ooo:8080/live/shoukatali/1199292900/245920.m3u8 
@@ -145,7 +145,7 @@ http://103.72.179.30:1935/GECHindi/SONY.stream_720p/index.m3u8
 http://opplex.tv:8080/live/15155419/16175512/109953.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DyynPYyx/Background-Eraser-20240628-115744834.png" group-title="India", Zee TV HD
-http://195.26.87.217/live.ts?channelId=217&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://103.110.110.11:8081/live/zeetv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/66djH910/ABP-Ananda-logo-svg.png" group-title="Indian Bangla", ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
