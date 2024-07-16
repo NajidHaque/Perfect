@@ -250,7 +250,7 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 http://opplex.tv:8080/live/15155419/16175512/352083.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports", Bein Sports 1 
-https://cdn.footballii.ir/hls2/bein1.m3u8
+https://z02.ubtvfans.com/live/rx3/1085/19c856d334244d7aa1b8354af98d9465/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports", Bein Sports 2
 http://sansat.net:25461/live/02028857936892/0751169096/60955.ts
@@ -292,7 +292,7 @@ http://154.6.191.61:8070/adastream2023/Bye5XZwQ8d5Cbs5/56191
 http://xtv.ooo:8080/live/927222297/6272443883/167595.ts
 
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Sports Ten 5 HD
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/105350.m3u8
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Ten_3_MOB/Fallback/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Sports", Star Sports 1 HD
 http://opplex.tv:8080/live/15155419/16175512/167575.m3u8
