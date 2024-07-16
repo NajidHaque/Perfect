@@ -202,7 +202,7 @@ http://xtv.ooo:8080/live/shoukatali/1199292900/109959.m3u8
 http://xtv.ooo:8080/live/shoukatali/1199292900/66186.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/506Tg34T/Star-Gold-Select.png" group-title="Indian Cinema", Star Gold Select HD
-http://opplex.tv:8080/live/15155419/16175512/221257.m3u8
+http://xtv.ooo:8080/live/927222297/6272443883/221257.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Cinema HD
 http://103.120.172.74:4100
@@ -253,10 +253,10 @@ http://opplex.tv:8080/live/15155419/16175512/352083.m3u8
 https://z02.ubtvfans.com/live/rx3/1085/19c856d334244d7aa1b8354af98d9465/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports", Bein Sports 2
-http://sansat.net:25461/live/02028857936892/0751169096/60955.ts
+http://xtv.ooo:8080/live/927222297/6272443883/222534.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/640px-Logo_beIN_SPORTS_3.png" group-title="Sports", Bein Sports 3
-http://sansat.net:25461/live/02028857936892/0751169096/60956.ts
+http://xtv.ooo:8080/live/927222297/6272443883/222573.ts
 
 #EXTINF: -1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Sports", Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
@@ -313,7 +313,7 @@ http://opplex.tv:8080/live/15155419/16175512/167594.m3u8
 http://opplex.tv:8080/live/15155419/16175512/346241.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png" group-title="Sports", Sky Sports Premier League
-http://tv.cloudcdn.me/live/00:1A:79:4C:90:94/D9CA0D47A1879/286.m3u8
+http://xtv.ooo:8080/live/927222297/6272443883/346242.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FRMBh5RS/srtijz1643382350.png" group-title="Sports", Super Sports Cricket
 http://opplex.tv:8080/live/15155419/16175512/238475.m3u8
