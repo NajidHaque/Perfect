@@ -7,3 +7,15 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+
+#EXTINF:-1,Channel One
+http://port.denver1769.in/Ply/tptv.php?id=58519
+#EXTINF:-1,Channel Two
+http://port.denver1769.in/Ply/tptv.php?id=58519
+#EXTINF:-1,Channel Three
+http://port.denver1769.in/Ply/tptv.php?id=58519
+#EXTINF:-1,Channel Four
+http://port.denver1769.in/Ply/tptv.php?id=58519
+#EXTINF:-1,Channel Five
+http://port.denver1769.in/Ply/tptv.php?id=58519
