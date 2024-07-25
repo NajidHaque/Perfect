@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Kids" tvg-id="Animax" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"L1oxmbJum2k66IGvf/hkzw","kid":"7fGnFd6XSGON0vrXWkGa8g"}],"type":"temporary"}
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="MOVIES", HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -175,17 +182,3 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyro/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e8bc6ce693c4579a185f137fac1d655:959ddd298a2ec2d4f9001d97f2c4bf44
 https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyjuniorro/Manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fxkH20y/cna.png" group-title="NEWS", CHANNEL NEWS ASIA 🇸🇬
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KK8qXqf/cgtn.png" group-title="NEWS", CGTN ENGLISH 🇨🇳
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WptH1Q/dw.png" group-title="NEWS", DW ENGLISH 🇩🇪
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/b56BV53/euronews.png" group-title="NEWS", EURONEWS. 🇪🇺
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
-
-
