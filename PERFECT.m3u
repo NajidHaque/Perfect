@@ -120,6 +120,9 @@ http://opplex.tv:8080/live/15155419/16175512/109968.m3u8
 #EXTINF: -1 tvg-logo="https://lionsgatechannels.com/assets/img/home/moviesphere-large-logo.png" group-title="English", Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="English", Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png" group-title="English", Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
