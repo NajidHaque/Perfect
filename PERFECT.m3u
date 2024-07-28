@@ -154,7 +154,7 @@ http://103.72.179.30:1935/GECHindi/SONY.stream_720p/index.m3u8
 http://opplex.tv:8080/live/15155419/16175512/109953.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DyynPYyx/Background-Eraser-20240628-115744834.png" group-title="India", Zee TV HD
-http://103.110.110.11:8081/live/zeetv/playlist.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/66djH910/ABP-Ananda-logo-svg.png" group-title="Indian Bangla", ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
@@ -178,10 +178,13 @@ http://103.109.56.116/live/skyfeed1016/index.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/channel_list/1170x658310781121.png" group-title="Indian Bangla", Zee Bangla HD
-http://opplex.tv:8080/live/15155419/16175512/245893.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/WbczMPdg/Background-Eraser-20240628-122320463.png" group-title="Indian Bangla", Zee Bangla Cinema
-http://xtv.ooo:8080/12dd12dd12/445566/245897
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+
+#EXTINF: -1 tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="Indian Cinema", &Picture HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="Indian Cinema", B4U Movies
 https://cdn2.pishow.tv/live/156/master.m3u8
@@ -211,7 +214,10 @@ http://xtv.ooo:8080/live/shoukatali/1199292900/66186.m3u8
 http://xtv.ooo:8080/live/927222297/6272443883/221257.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Cinema HD
-http://103.120.172.74:4100
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+
+#EXTINF: -1 tvg-logo="https://logowik.com/content/uploads/images/t_4104-zing-tv-new.webp" group-title="Indian Cinema", Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wvSVYKJ5/Background-Eraser-20240628-124939718.png" group-title="Music", Asia Music
 https://amchls.wns.live/hls/stream.m3u8
