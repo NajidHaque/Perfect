@@ -183,7 +183,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/WbczMPdg/Background-Eraser-20240628-122320463.png" group-title="Indian Bangla", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 
-#EXTINF: -1 tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp" group-title="Indian Cinema", &Picture HD
+#EXTINF: -1 tvg-logo="https://medianet.mv/media/channel/161x0-icon.png" group-title="Indian Cinema", &Picture HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png" group-title="Indian Cinema", B4U Movies
@@ -216,7 +216,10 @@ http://xtv.ooo:8080/live/927222297/6272443883/221257.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 
-#EXTINF: -1 tvg-logo="https://logowik.com/content/uploads/images/t_4104-zing-tv-new.webp" group-title="Indian Cinema", Zing
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg/revision/latest?cb=20191214174432" group-title="Indian Cinema", Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest?cb=20220525063636" group-title="Indian Cinema", Zing
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wvSVYKJ5/Background-Eraser-20240628-124939718.png" group-title="Music", Asia Music
@@ -370,7 +373,7 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids", Nick
-http://xtv.ooo:8080/live/927222297/6272443883/150482.ts
+https://jio.dinesh29.com.np/live/jio-universal/nick-bangla/index.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0Q06xwPq/pngwing-com.png" group-title="Kids", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
