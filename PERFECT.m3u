@@ -124,13 +124,13 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="English", Sony Pix HD
-http://xtv.ooo:8080/live/927222297/6272443883/66224.ts
+http://opplex.tv:8080/live/15155419/16175512/66224.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/KvMn94Hp/Star-Movies-HD-Asia.png" group-title="English", Star Movies HD 
-http://xtv.ooo:8080/live/927222297/6272443883/66213.ts
+http://opplex.tv:8080/live/15155419/16175512/66213.ts
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png" group-title="English", Star Movies Select HD
-http://xtv.ooo:8080/live/shoukatali/1199292900/66315.m3u8
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/23270.ts
 
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645014133-86668994.png?v=8.2.3" group-title="English", Zee Cafe HD
 http://opplex.tv:8080/live/15155419/16175512/66287.m3u8
@@ -295,7 +295,7 @@ http://154.6.191.61:8070/adastream2023/Bye5XZwQ8d5Cbs5/56191
 http://xtv.ooo:8080/live/927222297/6272443883/167595.ts
 
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Sports Ten 5 HD
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Ten_3_MOB/Fallback/index.m3u8
+http://xtv.ooo:8080/live/shoukatali/1199292900/66315.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Sports", Star Sports 1 HD
 http://103.151.60.2:5050/hoichoi24.com-help-you/index.m3u8
@@ -424,7 +424,7 @@ https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/htzPWgP3/Background-Eraser-20240628-144608712.png" group-title="Documentory", History TV18
-http://opplex.tv:8080/live/15155419/16175512/238541.m3u8
+http://41.205.93.154/HISTORY/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="Documentory", National Geographic
 http://45.159.74.13/NationalGeographic/tracks-v1a1/index.m3u8
