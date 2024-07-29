@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://avkb.short.gy/tsepg.xml.gz,https://avkb.short.gy/epg.xml.gz,https://avkb.short.gy/jioepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://avkb.short.gy/epg.xml.gz,https://avkb.short.gy/jioepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hjtn78RX/Background-Eraser-20240628-100253285.png" group-title="Bangladesh", Asian TV
 http://176.119.29.52/live.ts?channelId=80&uid=5284&deviceMac=00:1A:79:17:C0:71
