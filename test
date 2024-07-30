@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Kids" tvg-id="Animax" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mgJ5xYppFmledbsP1CacuQ","kid":"X8Nm6L4SVc2RO82zrf4Xcz"}],"type":"temporary"}
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/test.mpd
+
 #EXTINF:-1 group-title="Paris 24" tvg-id="780.astro" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png",Astro OLY 1 (SOOKA)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
