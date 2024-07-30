@@ -4,27 +4,6 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mgJ5xYppFmledbsP1CacuQ","kid":"X8Nm6L4SVc2RO82zrf4Xcz"}],"type":"temporary"}
-https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/test.mpd
-
-#EXTINF:-1 group-title="Paris 24" tvg-id="780.astro" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png",Astro OLY 1 (SOOKA)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZBfCZe7/U326G8VBjwB60g","kid":"QdoJWBnHSzCqlNryuDzjeQ"}],"type":"temporary"}
-https://linear14-playback.sooka.my/CH2/masterCH2.mpd
-
-#EXTINF:-1 group-title="Paris 24" tvg-id="780.astro" tvg-logo="https://telegra.ph/file/0ceac965df2dd1d4c31ea.png",Astro OLY 1 (AOTG)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4Ztpf97cWwzwrVBo3hPQqQ","kid":"lPrhfk0V4c0L3HztCW+lEA"}],"type":"temporary"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5150/default.mpd
-
-#EXTINF:-1 group-title="Kids" tvg-id="Animax" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"L1oxmbJum2k66IGvf/hkzw","kid":"7fGnFd6XSGON0vrXWkGa8g"}],"type":"temporary"}
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
