@@ -147,7 +147,7 @@ http://103.72.179.30:1935/GECHindi/SONY.stream_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="India", Sony Sab HD
 http://opplex.tv:8080/live/15155419/16175512/109953.m3u8
 
-#EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/Sony_KAL?file=Sony_Kal_Logo.jpg" group-title="India", Sony Sab HD
+#EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/Sony_KAL?file=Sony_Kal_Logo.jpg" group-title="India", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DyynPYyx/Background-Eraser-20240628-115744834.png" group-title="India", Zee TV HD
@@ -189,6 +189,9 @@ https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/bJ9PkddB/Background-Eraser-20240628-123121868.png" group-title="Indian Cinema", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png/revision/latest?cb=20190622082554" group-title="Indian Cinema", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Indian Cinema", Mbc Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
@@ -206,6 +209,9 @@ http://xtv.ooo:8080/live/shoukatali/1199292900/66186.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/506Tg34T/Star-Gold-Select.png" group-title="Indian Cinema", Star Gold Select HD
 http://xtv.ooo:8080/live/927222297/6272443883/221257.ts
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/44wsV8nY/1722424854434.png" group-title="Indian Cinema", The Movie Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png" group-title="Indian Cinema", Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
