@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJrZXlzIjogW3sia3R5IjogIm9jdCIsICJrIjogImtiWEticjctT3BkOHR2eXVNWWFHWkEiLCAia2lkIjogIjJRSmI5YnZtVUN5cldPMnFDMUIxQ3cifV0sICJ0eXBlIjogInRlbXBvcmFyeSJ9"
+#EXTINF:-1,Colors TV HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd
+#EXT-X-COOKIE:__hdnea__=st=1722429376~exp=1722515776~acl=/*~hmac=69e22461890e819251a10e2e8ccdefb64150fd467d9f8b83475b4edfe9551a6f
+
 #EXTINF:-1 group-title="Kids" tvg-id="Animax" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
