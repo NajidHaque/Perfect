@@ -414,6 +414,9 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8zKNWTVp/Background-Eraser-20240628-142041959.png" group-title="World News", Real America Voice
 https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/1024px-Sky-news-logo.svg.png" group-title="World News", Sky News
+https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentory", Animal Planet
 https://od.lk/s/ODRfNzIxOTE5NjFf/Animal_Plannet.m3u8
 
@@ -422,6 +425,9 @@ http://41.205.93.154/BBCTWO/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/QMJvL3XL/BBC-America-logo-2021-svg.png" group-title="Documentory", BBC America
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/1600px-BBC_Earth_2023.svg.png" group-title="Documentory", BBC Earth
+https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Documentory", Discovery Channel
 https://od.lk/s/ODRfNzIxOTE5NjJf/Discovery.m3u8
