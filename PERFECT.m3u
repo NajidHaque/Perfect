@@ -159,7 +159,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/66djH910/ABP-Ananda-logo-svg.png" group-title="Indian Bangla", ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/907jksK9/Colors-Bangla-HD-prelaunch-2016.png" group-title="Indian Bangla", Colors Bangla HD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/907jksK9/Colors-Bangla-HD-prelaunch-2016.png" group-title="Indian Bangla", Colors Bangla
 http://103.151.60.174:7171/robel-tv-test/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/1zB7KPRt/Background-Eraser-20240628-120812810.png" group-title="Indian Bangla", Enterr10 Bangla
