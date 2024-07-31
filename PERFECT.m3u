@@ -141,6 +141,9 @@ http://143.244.60.30/TBS/index.m3u8
 #EXTINF: -1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1645014133-86668994.png?v=8.2.3" group-title="English", Zee Cafe HD
 http://opplex.tv:8080/live/15155419/16175512/66287.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png" group-title="India", &tv HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/1200px-ABP_News_logo.svg.png" group-title="India", ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
