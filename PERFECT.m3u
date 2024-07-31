@@ -84,7 +84,7 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=11204
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png" group-title="Bangladesh", সময়
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@somoynews360&serial=1&e.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix.svg/1200px-%26flix.svg.png" group-title="English", &Flix HD
