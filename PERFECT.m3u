@@ -147,7 +147,7 @@ http://103.72.179.30:1935/GECHindi/SONY.stream_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png" group-title="India", Sony Sab HD
 http://opplex.tv:8080/live/15155419/16175512/109953.m3u8
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest?cb=20240615084342" group-title="India", Sony Kal
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sXstw0cQ/1722425925623.png" group-title="India", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DyynPYyx/Background-Eraser-20240628-115744834.png" group-title="India", Zee TV HD
@@ -243,7 +243,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e2/Sangeet_Bangla_logo_2021_with_slogan.png" group-title="Music", Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/kG6fRmQK/Shemaroo-2018.png" group-title="Music", Shemaroo
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wvmNv0Jv/1722425793951.png" group-title="Music", Shemaroo
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 
 #EXTINF: -1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music", YRF Music
