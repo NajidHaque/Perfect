@@ -408,6 +408,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="World News", Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/800px-NBC_logo_2022_%28vertical%29.svg.png" group-title="World News", NBC
+https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/dQys3kHB/Background-Eraser-20240628-151629577.png" group-title="World News", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
@@ -453,8 +456,8 @@ https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/BQC2LTTG/Background-Eraser-20240628-144507906.png" group-title="Documentory", HGTV 
 https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/htzPWgP3/Background-Eraser-20240628-144608712.png" group-title="Documentory", History TV18
-http://41.205.93.154/HISTORY/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/htzPWgP3/Background-Eraser-20240628-144608712.png" group-title="Documentory", History 365
+https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="Documentory", National Geographic
 http://45.159.74.13/NationalGeographic/tracks-v1a1/index.m3u8
