@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://fhux.short.gy/epg.xml.gz,https://avkb.short.gy/epg.xml.gz,https://avkb.short.gy/jioepg.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hjtn78RX/Background-Eraser-20240628-100253285.png" group-title="Bangladesh", Asian TV
-http://176.119.29.52/live.ts?channelId=80&uid=5284&deviceMac=00:1A:79:17:C0:71
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451533.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/pT3MHHgC/Background-Eraser-20240628-152508647.png" group-title="Bangladesh", আনন্দ TV
 http://xtv.ooo:8080/live/927222297/6272443883/245929.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangladesh", ATN বাংলা
-http://xtv.ooo:8080/live/Behraam223/8237588/245909.ts
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451534.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R05tLFg1/Background-Eraser-20240628-101059334.png" group-title="Bangladesh", ATN News
 https://ythls.armelin.one/channel/UCKlhfq1ILoAFav7iw5iCnfA.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GhWPs51f/Background-Eraser-20240628-152646187.png" group-title="Bangladesh", Bijoy TV
-http://176.119.29.52/live.ts?channelId=85&uid=6154&deviceMac=00:1A:79:51:31:21
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451574.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladesh", Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
@@ -22,10 +22,10 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
 https://evbr.short.gy/BDStreamHub/Bangla_Vision.m3u
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/BvJS3LNn/Boishakhi-TV-logo-svg.png" group-title="Bangladesh", Boishakhi TV
-http://opplex.tv:8080/live/15155419/16175512/245923.ts
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451539.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png" group-title="Bangladesh", Channel 24
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451544.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/bv33b9g2/Background-Eraser-20240628-152826227.png" group-title="Bangladesh", Channel I 
 http://opplex.tv:8080/live/15155419/16175512/245913.m3u8
@@ -40,13 +40,13 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://evbr.short.gy/BDStreamHub/Duranto_Tv.m3u
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png" group-title="Bangladesh", DBC News
-https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451547.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangladesh", একুশে TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="Bangladesh", একাত্তর TV 
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451550.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladesh", এখন
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@ekhontv&serial=1&e.m3u8
@@ -72,11 +72,11 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Gp704rZk/Background-Eraser-20240628-105643059.png" group-title="Bangladesh", Masranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="Bangladesh", N TV 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="Bangladesh", NTV 
 http://opplex.tv:8080/live/15155419/16175512/245924.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangladesh", Nexus TV
-https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451576.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladesh", নাগরিক TV
 https://evbr.short.gy/BDStreamHub/Nagorik_Tv.m3u
@@ -85,7 +85,7 @@ https://evbr.short.gy/BDStreamHub/Nagorik_Tv.m3u
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladesh", RTV 
-https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451536.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Jnh1nDX1/Background-Eraser-20240628-114738120.png" group-title="Bangladesh", SATV
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451573.ts
