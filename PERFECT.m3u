@@ -210,9 +210,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png/revision/latest?cb=20190622082554" group-title="Indian Cinema", Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.gibtele.com/uploads/TV%20logos/Bollywood%20Prime.png" group-title="Indian Cinema", Bollywood Prime
-https://dai.google.com/linear/hls/pb/event/yvQpXDAeRMGU25KTu--V6Q/stream/989ab1d6-dfdc-4b37-8b6e-2432f1aa39d2:SIN/master.m3u8
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Indian Cinema", Mbc Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
