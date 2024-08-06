@@ -180,6 +180,9 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451288.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/1zB7KPRt/Background-Eraser-20240628-120812810.png" group-title="Indian Bangla", Enterr10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Sananda_TV_logo_%282011%29.png/revision/latest?cb=20210428083412" group-title="Indian Bangla", Sananda TV
+http://live.sanandatelevision.in:2020/sananda/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zBnQRWLs/Star-Jalsha-HD-with-slogan-2011.png" group-title="Indian Bangla", Star Jalsha HD
 http://xtv.ooo:8080/live/shoukatali/1199292900/245898.m3u8
 
