@@ -61,7 +61,7 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@IndependentTelevision&serial=1&e.m3u8
 
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
-https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@JamunaTVbd
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/6QzRkbFj/Mohona-tv-Logo-svg.png" group-title="Bangladesh", Mohona TV
 http://xtv.ooo:8080/live/shoukatali/1199292900/245920.m3u8 
@@ -94,7 +94,7 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451573.ts
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLA3LKuRNgt8qGLit8_5RNQ
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladesh", T Sports
-http://113.212.111.246:8080/hls/col12.m3u8
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451556.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix.svg/1200px-%26flix.svg.png" group-title="English", &Flix HD
 http://opplex.tv:8080/live/15155419/16175512/109962.m3u8
